@@ -1,1 +1,3 @@
-git7 문서 생성
+git7 문서
+
+__readme.md 문서__
