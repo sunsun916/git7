@@ -1,5 +1,5 @@
-*git7 문서
+#git7 문서
 
-_readme.md 문서_
+__readme.md 문서__
 
 1. 220919
